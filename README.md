@@ -4,8 +4,11 @@ This project is a **Textile Shop Management System** built with Spring Boot (bac
 
 ## Features
 
-### Admin Functionalities:
-- **Admin Login:** Initialize with given admin credentials.
+### Admin Functionalities:  
+- **Admin Login:** Initialize with given admin credentials.  
+  **Default Credentials:**  
+  - **Username:** `admin@ooad.com`  
+  - **Password:** `123456789` 
 - **Create Admin Users:** Add new admin accounts.
 - **Supplier Management:** Add and manage suppliers.
 - **Product Management:** Add and manage products.
