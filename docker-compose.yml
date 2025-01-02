@@ -1,6 +1,0 @@
-services:
-    inventorymanagmentsystem:
-        build:
-            context: ./inventorymanagmentsystem
-        ports:
-            - 8080:8080
